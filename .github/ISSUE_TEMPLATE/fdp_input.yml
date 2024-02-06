@@ -1,4 +1,4 @@
-name: FAIR Data Point Submission
+name: FAIR Data Point Submission Step 1 - Add dataset
 description: Use this form to submit new FAIR Data Point data for inclusion in the triple store.
 title: "FDP Submission: [Title]"
 body:
