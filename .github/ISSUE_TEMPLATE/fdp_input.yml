@@ -26,3 +26,10 @@ body:
       placeholder: "Clinical and Patient Reported data for Duchenne and Becker muscular dystrophy patients."
     validations:
       required: true
+ - type: input
+   attributes:
+     label: Publisher
+     description: "Enter a URI that depicts the publisher of the resource"
+     placeholder: "http://www.wikidata.org/entity/Q28381786"
+   validations:
+     required: true
